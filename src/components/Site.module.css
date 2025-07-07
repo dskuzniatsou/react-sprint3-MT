@@ -36,3 +36,14 @@ display: flex;
     text-align: center;
     color: white;
 }
+
+
+.navLink {
+    color: green;
+    text-decoration: none;
+}
+
+.active {
+    text-decoration: underline;
+    color: rebeccapurple;
+}
